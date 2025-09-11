@@ -11,6 +11,22 @@
       "name": "黑木耳",
       "detail": "https://heimuer.tv"
     },
+      "huohua": {
+      "api": "https://cj.huohua.live/api.php/provide/vod",
+      "name": "火花采集"
+    },
+     "quanzhan": {
+      "api": "http://www.qilinzyz.com/api.php/provide/vod",
+      "name": "麒麟全站"
+    },
+     "niuniu": {
+      "api": "https://api.niuniuzy.me/api.php/provide/vod",
+      "name": "牛牛资源站"
+    },
+     "suoni": {
+      "api": "https://suoniapi.com/api.php/provide/vod",
+      "name": "索尼资源"
+    },
     "ruyi": {
       "api": "http://cj.rycjapi.com/api.php/provide/vod",
       "name": "如意资源"
