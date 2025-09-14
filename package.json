@@ -5,7 +5,6 @@
   "scripts": {
     "dev": "pnpm gen:runtime && pnpm gen:manifest && next dev -H 0.0.0.0",
     "build": "pnpm gen:runtime && pnpm gen:manifest && next build",
-    // 新增这一行：复用现有 build 流程，再执行 Cloudflare 转换工具
     "pages:build": "pnpm run build && next-on-pages",
     "start": "next start",
     "lint": "next lint",
